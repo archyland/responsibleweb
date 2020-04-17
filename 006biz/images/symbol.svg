@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 140.2 138.2" style="enable-background:new 0 0 140.2 138.2;" xml:space="preserve">
+<style type="text/css">
+	.al0{fill:none;}
+	.al1{fill:#000000;}
+</style>
+<g>
+	<path class="al0" d="M45.3,82.3l5.1-5.1l36.3,36.3l10.9-10.9L37.7,42.7L10.2,70.1L70.1,130l11.4-11.4L45.3,82.3z M25.4,62.5
+		l5.1-5.1l16,16l-5.1,5.1L25.4,62.5z"/>
+	
+		<rect x="82.4" y="5.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.7244 75.8555)" class="al0" width="15.6" height="72.1"/>
+	<polygon class="al0" points="115.2,77.3 115.2,77.3 110.1,82.4 54,26.3 42.8,37.6 102.7,97.6 130.1,70.1 126.3,66.3 	"/>
+	<path class="al1" d="M0,70.1l70.1,70.1l70.1-70.1L70.2,0L0,70.1z M121.2,61.2l-11,11l-51-51l11-11L121.2,61.2z M10.2,70.1
+		l27.4-27.4l59.9,59.9l-10.9,10.9L50.3,77.2l-5.1,5.1l36.3,36.3l-11.3,11.5L10.2,70.1z M102.7,97.6L42.8,37.7l11.3-11.3l56.1,56.1
+		l5.1-5.1l0,0l11-11l3.8,3.8L102.7,97.6z"/>
+	
+		<rect x="32.4" y="56.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -37.4549 45.3154)" class="al1" width="7.2" height="22.6"/>
+</g>
+</svg>
